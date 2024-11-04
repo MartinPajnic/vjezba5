@@ -1,0 +1,1 @@
+print('dobrodošli na računalstvo u prometnom inženjerstvu!')
