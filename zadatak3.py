@@ -1,1 +1,0 @@
-print('slučajno dodana skripta')
